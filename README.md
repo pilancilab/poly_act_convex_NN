@@ -1,6 +1,4 @@
-# poly_act_convex_NN
-
-Python code for the implementation of the method described in the paper "Neural Spectrahedra and Semidefinite Lifts: Global Convex Optimization of Polynomial Activation Neural Networks in Fully Polynomial-Time".
+# Python code for the implementation of the method described in the paper "Neural Spectrahedra and Semidefinite Lifts: Global Convex Optimization of Polynomial Activation Neural Networks in Fully Polynomial-Time".
 
 The paper can be downloaded at "https://arxiv.org/pdf/2101.02429.pdf"
 
